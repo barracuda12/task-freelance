@@ -63,7 +63,7 @@ module.exports = { prepareData }
 Узнайте подробнее о формате входных данных:
 
 - [полное описание полей](./examples/types.d.ts) для каждой сущности;
-- [полный пример ответа бэкенда](./examples/input.json).
+- [полный пример ответа бэкенда](https://drive.google.com/file/d/1X_H37zr9vB4yLbmV6Dl-vj3xyfa59zjd/view?usp=sharing).
 
 ## Формат выходных данных
 
